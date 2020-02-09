@@ -23,7 +23,7 @@
 			<plugin>
 				<groupId>org.mule.tools.maven</groupId>
 				<artifactId>mule-maven-plugin</artifactId>
-				<version>4.2.2</version>
+				<version>${mule.maven.plugin.version}</version>
 				<extensions>true</extensions>
 				<configuration>
 				<cloudHubDeployment>
@@ -33,7 +33,7 @@
 				<workerType>Micro</workerType>
 				<applicationName>worldtimezone-service</applicationName>
 				<password>Harry@5171232</password>
-				<version>4.2.2</version>
+				<version>4.2.0</version>
 				</cloudHubDeployment>
 				</configuration>
 			</plugin>
