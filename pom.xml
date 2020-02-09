@@ -27,6 +27,7 @@
 				<extensions>true</extensions>
 				<configuration>
 				<cloudHubDeployment>
+				<muleVersion>4.2.0</muleVersion>
 				<username>HSinghNaggi</username>
 				<environment>Sandbox</environment>
 				<businessGroup>Freelancer</businessGroup>
