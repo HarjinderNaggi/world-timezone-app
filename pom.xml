@@ -29,6 +29,7 @@
 				<cloudHubDeployment>
 				<username>HSinghNaggi</username>
 				<environment>Sandbox</environment>
+				<businessGroup>Freelancer</businessGroup>
 				<workers>1</workers>
 				<workerType>Micro</workerType>
 				<applicationName>worldtimezone-service</applicationName>
