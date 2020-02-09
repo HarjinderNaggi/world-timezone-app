@@ -34,7 +34,7 @@
 				<workerType>Micro</workerType>
 				<applicationName>worldtimezone-service</applicationName>
 				<password>Harry@5171232</password>
-				<version>4.2.0</version>
+				<version>4.2.2</version>
 				</cloudHubDeployment>
 				</configuration>
 			</plugin>
