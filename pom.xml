@@ -14,8 +14,8 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-		<app.runtime>4.2.2</app.runtime>
-		<mule.maven.plugin.version>3.3.5</mule.maven.plugin.version>
+		<app.runtime>4.2.0</app.runtime>
+		<mule.maven.plugin.version>3.6.3</mule.maven.plugin.version>
 	</properties>
 
 	<build>
@@ -34,7 +34,7 @@
 				<workerType>Micro</workerType>
 				<applicationName>worldtimezone-service</applicationName>
 				<password>Harry@5171232</password>
-				<version>4.2.2</version>
+				<version>4.2.0</version>
 				</cloudHubDeployment>
 				</configuration>
 			</plugin>
